@@ -1,0 +1,57 @@
+.mainbody {
+    background-color: lightgrey;
+}
+
+.navbar-light {
+    font-size: 40px;
+    clear: left;
+    color: white;
+    padding: 0%;
+}
+
+.container-nav {
+    background-color: lightseagreen;
+    padding: 40px;
+    color: white;
+    font-weight: bold;
+    margin-left: 3em;
+    margin-right: 0%;
+    margin-top: 0%;
+    width: auto;
+    float: left;
+}
+
+.btn {
+    float: right;
+}
+
+.container-fluid {
+    background-color: white;
+    font-size: 24px;
+    margin-top: 1em;
+    margin-left: 5.5em;
+    margin-right: 5.5em;
+    line-height: 2em;
+}
+
+#AM {
+    color: lightseagreen;
+    font-weight: bold;
+    font-size: 44px;
+    border-bottom: solid;
+    border-width: 8px;
+    border-color: black;
+}
+
+#image1 {
+    padding-right: .05em;
+}
+
+.row {
+    width: 100%;
+    padding: 1em;
+}
+
+.fullW {
+    width: 100%;
+}
